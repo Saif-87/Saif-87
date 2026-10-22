@@ -7,7 +7,7 @@ I like taking messy, half-broken data and turning it into something people actua
 ```text
 building   → tools that clean, map and move data between systems
 writing    → a weekly newsletter on digital assets & analytics
-learning   → cloud, APIs and how AI agents plug into real workflows
+learning   → APIs and how AI agents plug into real workflows
 one day    → own a watch I don't immediately want to replace
 ```
 
@@ -17,17 +17,24 @@ one day    → own a watch I don't immediately want to replace
 
 ### 🧰 Tools I reach for
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,postman,vscode&theme=dark" alt="Python, SQL, AWS, Git, GitHub, Postman, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,postman&theme=dark" alt="Python, SQLite, Git, GitHub, Postman" />
 </p>
-
-`Dataiku` `Snowflake` `Power BI` `Azure OpenAI` `Gemini` `Hugging Face` `spaCy` `Streamlit` `Claude Code`
+<p align="left">
+  <img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge" alt="Dataiku" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+</p>
 
 ### 🎓 Certifications
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
   <img src="https://img.shields.io/badge/Dataiku-ML_Practitioner-2AB1AC?style=for-the-badge" alt="Dataiku ML Practitioner" />
   <img src="https://img.shields.io/badge/SAP-S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA" />
+  <img src="https://img.shields.io/badge/Microsoft-Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Microsoft Power BI" />
 </p>
 
 ### 📫 Say hi
