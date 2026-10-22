@@ -12,7 +12,7 @@ one day    → own a watch I don't immediately want to replace
 ```
 
 ### 🚀 Things I've built
-- **[AI Data Migration Assistant](https://github.com/Saif-87/ai-data-migration-assistant)**: drop in a messy CSV or CRM export; it cleans it, suggests field mappings with AI, waits for a human "yes", then moves it. ([try it](https://ai-data-migration-assistant.streamlit.app))
+- **[AI Data Migration Assistant]([https://github.com/Saif-87/ai-data-migration-assistant](https://github.com/Saif-87/ai-data-migration-assistant/blob/main/README.md))**: drop in a messy CSV or CRM export; it cleans it, suggests field mappings with AI, waits for a human "yes", then moves it. ([try it](https://ai-data-migration-assistant.streamlit.app))
 - **[Currency Devaluation Early-Warning](https://github.com/Saif-87/currency-devaluation-sentiment-analysis)**: reads the world's news, scores it with a finance-tuned language model, and asks whether a currency is about to slip.
 
 ### 🧰 Tools I reach for
